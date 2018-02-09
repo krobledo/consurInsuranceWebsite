@@ -1,0 +1,20 @@
+%% [Thu Jun  9 14:16:21 2016] GET /index.cgi HTTP/1.1
+%% 404 /z/dr/consurconsur/us12/index.cgi
+%error
+script not found or unable to stat
+%% [Fri Aug  5 00:47:39 2016] GET /index.cgi HTTP/1.1
+%% 404 /z/dr/consurconsur/us12/index.cgi
+%error
+script not found or unable to stat
+%% [Mon Nov 14 12:57:11 2016] GET /index.cgi HTTP/1.1
+%% 404 /z/dr/consurconsur/us12/index.cgi
+%error
+script not found or unable to stat
+%% [Sun Dec 31 07:09:13 2017] HEAD /index.cgi HTTP/1.1
+%% 404 /z/dr/consurconsur/us12/index.cgi
+%error
+script not found or unable to stat
+%% [Sun Dec 31 07:09:39 2017] HEAD /home.cgi HTTP/1.1
+%% 404 /z/dr/consurconsur/us12/home.cgi
+%error
+script not found or unable to stat
